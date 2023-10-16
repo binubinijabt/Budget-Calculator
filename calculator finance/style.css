@@ -1,0 +1,43 @@
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQk3Sfno6sm5_719_j1bP-3tUXRXu7yhoanHlXzlmqDuW-r1bNTq1lsoknU38q_19Anbk&usqp=CAU) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.navbar-brand{
+    color: beige;
+}
+
+
+.row{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+
+label{
+    font-size: x-large;
+    font-weight: 500;
+}
+.border-2{
+
+background-color: rgba(3, 12, 20, 0.202);
+border-radius: 30px;
+}
+
+.border-2:hover{
+    box-shadow: 9px 4px  9px white;
+}
+
+
+#formGo{
+    color: blue;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+}
